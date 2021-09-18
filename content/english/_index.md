@@ -46,7 +46,7 @@ service:
 cta:
   enable: true
   bg_image: "images/Workshop.jpg"
-  title: "Streamlining Prep Work with Technology"
+  title: "Streamline Work with Tech"
   content: <p style="font-size:20px;line-height:36px; color:#fff">Stay informed on the programming-level applications through workshops.</p>
   button:
     enable: true
@@ -84,19 +84,19 @@ funfacts:
   - name: "Teacher Zhang"
     image: "images/clients/avater-1.jpg"
     designation: "High School EFL Teacher"
-    content: "Thank Vince for your patient step-by-step guidance. It was the first time I tried programming and made my own chatbot. As an in-service teacher, I think technology makes teaching efficient."
+    content: <b style="font-size:20px">Thank Vince for your patient step-by-step guidance. It was the first time I tried programming and made my own chatbot. As an in-service teacher, I think technology makes teaching efficient.</b>
 
   # testimonial item loop
   - name: "Teacher Zhang"
     image: "images/clients/avater-2.jpg"
     designation: "Junior High EFL Teacher"
-    content: "Understanding the logic behind tech tools, I gained insipiration that helped me prepare EFL courses in a customized way. Programming is not far-fetched. It can really solve problems and save time."
+    content: <b style="font-size:20px">Understanding the logic behind tech tools, I gained insipiration that helped me prepare EFL courses in a customized way. Programming is not far-fetched. It can really solve problems and save time.</b>
 
   # testimonial item loop
   - name: "Teacher Hong"
     image: "images/clients/avater-3.jpg"
     designation: "Private Tutor"
-    content: "Thank Vince and the team for introducing Python and chatbots. They are really helpful in course preparation and teaching. The workshop gave me a new direction for in-service teacher education."
+    content: <b style="font-size:20px">Thank Vince and the team for introducing Python and chatbots. They are really helpful in course preparation and teaching. The workshop gave me a new direction for in-service teacher education.</b>
 
 
 ---

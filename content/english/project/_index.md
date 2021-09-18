@@ -1,8 +1,8 @@
 ---
 title: "Our Project"
-description: "this is meta description"
+description: "Choose a project that rocks!"
 draft: false
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/project.jpg"
 menu:
   main:
     name: "Project"
