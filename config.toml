@@ -61,13 +61,11 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 ################################# Contact page ################################
 [params.contact]
 # Address block
-phone = "0124857985320"
-email = "demo@email.com"
+phone = "+886-931762579"
+email = "vincejim91126@gmail.com"
 location = """
-**Themefisher**  
-North Main Street  
-Brooklyn, New South Wales  
-Australia
+**Synergos**  
+Taipie, Taiwan
 """
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
@@ -85,10 +83,10 @@ success_image = "images/paper-plane.svg"
 
 ################################# Google map ##################################
 [params.gmap]
-enable = true
+enable = false
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "25.026398901101164"  
+map_longitude = "121.52751620985694"
 map_marker = "images/marker.png"
 
 
@@ -113,29 +111,29 @@ username = ""
 
 
 ################################# Social Media ################################
-[[params.social]]
-icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+#[[params.social]]
+#icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#link = "#"
 
-[[params.social]]
-icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+#[[params.social]]
+#icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#link = "#"
 
-[[params.social]]
-icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+#[[params.social]]
+#icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#link = "#"
 
-[[params.social]]
-icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+#[[params.social]]
+#icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#link = "#"
 
-[[params.social]]
-icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+#[[params.social]]
+#icon = "ion-android-person-add" #ionicon pack v2 : https://ionicons.com/v2/
+#link = ""
 
 [[params.social]]
 icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+link = "https://www.facebook.com/groups/4118478381518497/"
 
 
 ################################# Plugins #####################################
@@ -192,10 +190,10 @@ copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All R
 
 # Navigation menus
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
-[[languages.en.menu.main]]
-hasChildren = true
-name = "More"
-weight = 5
+#[[languages.en.menu.main]]
+#hasChildren = true
+#name = "More"
+#weight = 5
 
 
 ################################# French translation ##########################

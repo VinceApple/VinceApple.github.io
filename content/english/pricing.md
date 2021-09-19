@@ -3,7 +3,7 @@ title: "Our Pricing"
 description: "this is meta description"
 bg_image: "images/feature-bg.jpg"
 layout: "pricing"
-draft: false
+draft: true
 menu:
   main:
     parent: "More"
