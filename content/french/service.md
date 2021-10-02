@@ -3,10 +3,10 @@ title: "Service"
 description: "this is meta description"
 bg_image: "images/feature-bg.jpg"
 layout: "service"
-draft: false
+draft: true
 menu:
   main:
-    parent: "Plus"
+    parent: "More"
     name: "Service"
     weight: 1
   footer:
@@ -54,49 +54,30 @@ featured_service:
 ############################# Service ###############################
 service:
   enable : true
-  title : "Our Services"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  title : "Features"
+  description : <p style="font-size:20px">Speedy deployment and flexible customization<br/>Tailor-made to EFL teachers</p>
   service_item:
     # service item loop
-    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/
-      name: Branding
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-load-c  #ionicon pack v2 : https://ionicons.com/v2/
+      name: Adaptable
+      content: <p style="font-size:18px;line-height:30px; color:#7b7b7b">Tailored to the needs of <br/>EFL teachers</p>
 
     # service item loop
-    - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/
-      name: Web Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-clipboard #ionicon pack v2 : https://ionicons.com/v2/
+      name: Informative
+      content: <p style="font-size:18px;line-height:30px; color:#7b7b7b">Bridging the gap between <br/>technology and EFL</p>
 
     # service item loop
-    - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/
-      name: App Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-chatbox-working #ionicon pack v2 : https://ionicons.com/v2/
+      name: Supportive
+      content: <p style="font-size:18px;line-height:30px; color:#7b7b7b">Providing extracurricular technical support</p>
 
     # service item loop
-    - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/
-      name: Start Up
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-search #ionicon pack v2 : https://ionicons.com/v2/
+      name: Exploratory
+      content: <p style="font-size:18px;line-height:30px; color:#7b7b7b">Discovering use cases in <br/>EFL contexts</p>
 
-    # service item loop
-    - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/
-      name: Logo Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/
-      name: Development
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+ 
 
 ############################# call to action #################################
 cta:

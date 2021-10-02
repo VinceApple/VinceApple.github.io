@@ -5,14 +5,14 @@ subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, rep
 lastmod: 2021-04-01T00:00:00
 bg_image: "images/feature-bg.jpg"
 layout: "faq"
-draft: false
+draft: true
 menu:
   main:
-    parent: "Plus"
-    name: "Questions fréquentes"
+    parent: "More"
+    name: "FAQ"
     weight: 3
   footer:
-    name: "Questions fréquentes"
+    name: "FAQ"
     weight: 5
 ---
 

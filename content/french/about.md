@@ -3,14 +3,14 @@ title: "About Our Company"
 description: "this is meta description"
 bg_image: "images/feature-bg.jpg"
 layout: "about"
-draft: false
+draft: true
 menu:
   main:
-    name: "À propos"
+    name: "About"
     weight: 2
   footer:
-    name: "À propos"
-    weight: 1
+    name: "About"
+    weight: 0
 
 
 ################################## About #####################################

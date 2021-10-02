@@ -62,17 +62,17 @@ funfacts:
   # funfacts item loop
   - icon: "ion-android-people" #ionicon pack v2: https://ionicons.com/v2/
     name: "EFL Teachers"
-    count: "120"
+    count: "141"
 
   # funfacts item loop
   - icon: "ion-ios-location" #ionicon pack v2: https://ionicons.com/v2/
     name: "Events"
-    count: "2"
+    count: "3"
 
   # funfacts item loop
   - icon: "ion-ios-time" #ionicon pack v2: https://ionicons.com/v2/
     name: "Hours"
-    count: "16"
+    count: "19"
 
   # funfacts item loop
   - icon: "ion-earth" #ionicon pack v2: https://ionicons.com/v2/

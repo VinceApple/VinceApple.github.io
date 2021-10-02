@@ -3,14 +3,14 @@ title: "Our Pricing"
 description: "this is meta description"
 bg_image: "images/feature-bg.jpg"
 layout: "pricing"
-draft: false
+draft: true
 menu:
   main:
-    parent: "Plus"
-    name: "Tarification"
+    parent: "More"
+    name: "Pricing"
     weight: 2
   footer:
-    name: "Tarification"
+    name: "Pricing"
     weight: 4
 
 ################################ pricing ################################

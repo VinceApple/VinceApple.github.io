@@ -186,7 +186,7 @@ languageName = "English"
 languageCode = "en-US"
 contentDir = "content/english"
 weight = 1
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All Rights Reserved."
+copyright = "Copyright &copy; 2021 SYNERGOS. All Rights Reserved."
 
 # Navigation menus
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
@@ -196,20 +196,20 @@ copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All R
 #weight = 5
 
 
-################################# French translation ##########################
-[languages.fr]
-languageName = "Français"
-languageCode = "fr-FR"
+################################# Chinese translation ##########################
+[languages.ch]
+languageName = "Chinese"
+languageCode = "ch-CH"
 contentDir = "content/french"
 weight = 2
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tous droits réservés."
+copyright = "Copyright &copy; 2021 SYNERGOS. All Rights Reserved."
 
 # Navigation menus
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
-[[languages.fr.menu.main]]
-hasChildren = true
-weight = 5
-name = "Plus"
+#[[languages.ch.menu.main]]
+#hasChildren = true
+#weight = 5
+#name = "Plus"
 
 
 ################################# Italian translation ##########################

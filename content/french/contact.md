@@ -1,14 +1,14 @@
 ---
-title: "Drop Us A Note"
-description: "this is meta description"
-bg_image: "images/feature-bg.jpg"
+title: "留下訊息"
+description: "告訴我們您的需求"
+bg_image: "images/project.jpg"
 layout: "contact"
 draft: false
 menu:
   main:
-    name: "Contact"
+    name: "聯絡我們"
     weight: 6
   footer:
-    name: "Contact"
+    name: "聯絡我們"
     weight: 6
 ---

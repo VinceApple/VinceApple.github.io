@@ -10,29 +10,29 @@ draft: false
 type: "post"
 ---
 
-Pour écrire un horodatage [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) dans la langue courante, vous pouvez utiliser le shortcode `date_l10n` :
+To write out an [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) timestamp in the current language, you can use the `date_l10n` shortcode:
 
-L'écriture de
+Writing
 
 ```
 {{%/* date_l10n "2020-10-20" */%}}
 ```
 
-donne
+will result in
 
 ```
 {{% date_l10n "2020-10-20" %}}
 ```
 
-Vous pouvez facultativement spécifier une autre [mise en forme](https://gohugo.io/functions/dateformat/#datetime-formatting-layouts):
+You can optionally specify a different [formatting layout](https://gohugo.io/functions/dateformat/#datetime-formatting-layouts):
 
-Par exemple, le résultat suivant
+For example, the following
 
 ```
 {{%/* date_l10n "2020-10-20" ":date_short" */%}}
 ```
 
-est
+will result in
 
 ```
 {{% date_l10n "2020-10-20" ":date_short" %}}

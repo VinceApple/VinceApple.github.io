@@ -1,51 +1,29 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "語音轉文字"
+description: "將語音檔轉成文字"
 draft: false
-image : "images/portfolio/work4.jpg"
-bg_image: "images/feature-bg.jpg"
-category: "UI/UX Design"
+image : "images/portfolio/speech-to-text.png"
+bg_image: "images/project.jpg"
+category: ["文字","語音"]
 information:
-  - label : "Client"
-    info : "Jannie Kelonsky"
-  - label : "What We Did"
-    info : "Website Redesign"
-  - label : "Tools Used"
-    info : "Photoshop,Illustrator"
-  - label : "Completed on"
-    info : "17th March 2014"
-  - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
+  - label : "客戶"
+    info : "盧老師"
+  - label : "內容"
+    info : "語音檔轉文字"
+  - label : "工具"
+    info : "Python"
+  #- label : "Completed on"
+  #  info : "17th March 2014"
+  - label : "技能"
+    info : "Python"
+  #- label : "Client"
+  #  info : "Jannie Kelonsky"
 ---
 
-## Behance Website Redesign
+## Google 的語音檔轉成文字
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
-odit. A facere tempore soluta laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas?
-Error soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt!
-Suscipit facilis, ut maxime libero necessitatibus, rerum aut voluptates aliquam maiores iusto qui
-temporibus nesciunt, incidunt in quasi. Veniam aliquid ea aperiam, obcaecati voluptate ab, temporibus
-fugiat at, inventore molestiae quibusdam, modi numquam debitis libero aut eum. Architecto sit quia quidem
-odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipisci iste optio
-ea libero laboriosam praesentium aperiam nobis vero tempore consequuntur sapiente eos at. Suscipit quis
-voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime aperiam eos illum minima
-aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
-cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
-similique, delectus rerum laborum veritatis, cum magnam dignissimos necessitatibus possimus error, eius
-omnis veniam culpa, porro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
-dicta voluptates tenetur mollitia perferendis sequi, magnam doloremque odit similique, sit, voluptas unde
-iste molestias. Accusantium, corporis quibusdam quod in animi earum alias autem ipsum. Eaque rem numquam
-delectus veniam commodi doloribus consequatur deleniti?
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
-libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
-mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
-culpa? Delectus dolorum facere quasi iure explicabo?
+<br/><p style="font-size:18pt"><b>老師的需求</b></p>
+<p style="font-size:16pt">盧老師除了在學校教書之外，還持續在研究所進修。針對研究內容，請學生各自錄製自得，總計約有四十個音檔需要分析。一般的做法會請人聽打，曠日廢時，同一個音檔還需來回重複聽許多次，因此，使用 AI 技術將語音檔轉成文字，便成為了本專案首要目標。</p>
+<br/><p style="font-size:18pt"><b>設計架構</b></p>
+<p style="font-size:16pt">使用 Google 提供的語音辨識服務，將訪談音檔丟到 Google Cloud Service 的 Bucket，並使用 Python 呼叫雲端服務，將雲端上的音檔轉換成文字並輸出到自己的電腦。</p>
+<p style="font-size:16pt">展示影片可加入臉書「薩格茲學院」社團觀看。</p>
