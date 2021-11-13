@@ -67,12 +67,12 @@ funfacts:
   # funfacts item loop
   - icon: "ion-ios-location" #ionicon pack v2: https://ionicons.com/v2/
     name: "Events"
-    count: "5"
+    count: "6"
 
   # funfacts item loop
   - icon: "ion-ios-time" #ionicon pack v2: https://ionicons.com/v2/
     name: "Hours"
-    count: "25"
+    count: "28"
 
   # funfacts item loop
   - icon: "ion-earth" #ionicon pack v2: https://ionicons.com/v2/

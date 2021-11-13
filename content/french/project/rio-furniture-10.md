@@ -25,4 +25,4 @@ information:
 <br/><p style="font-size:18pt"><b>老師需求</b></p>
 <p style="font-size:16pt">學生的寫作每句之間總是不連貫，需要好好地引導每句該寫的內容和方向。另外，批改作文非常耗時，常常讓老師身心俱疲。</p>
 <br/><p style="font-size:18pt"><b>設計思維</b></p>
-<p style="font-size:16pt">使用 Python 和 Google Colab 一起收集所有學生上傳的檔案，計算字數、用字、Token Ratio等等。同時利用 input() 和 Loop，用引導式問題，讓學生寫出連貫性高的作文。</p>
+<p style="font-size:16pt">使用 Python 和 Google Colab 一起收集所有學生上傳的檔案，計算字數、用字、Token Ratio等等。同時利用 input() 和 Loop，用引導式問題，讓學生寫出連貫性高的作文。此外，我們使用 Gramformer 自動偵測文法錯誤，提出修改後的句子，讓老師可以專注在整體和內容的回饋，不用一一幫學生修改文法錯誤。</p>

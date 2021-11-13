@@ -25,4 +25,4 @@ information:
 <br/><p style="font-size:18pt"><b>Teacher Request</b></p>
 <p style="font-size:16pt">Marking essays is laborious. Students' essays are , most of the time, inconsistent. Teachers need to find a way to help students write a structured and consistent essay. Also, They want the process of marking essays to be less laborious.</p>
 <br/><p style="font-size:18pt"><b>Design Thinking</b></p>
-<p style="font-size:16pt">Use input() and Loops on Google Colab to design guiding questions and collect students' writing. We can even calculate each essay's token ratio and automate some tasks to replace manual marking.</p>
+<p style="font-size:16pt">Use input() and Loops on Google Colab to design guiding questions and collect students' writing. We can even calculate each essay's token ratio and automate some tasks to replace manual marking. As to grammar, we use Gramformer to automatically check students' grammar mistakes so that teachers can focus on on high-level corrective feedback.</p>
